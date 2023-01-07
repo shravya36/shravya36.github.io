@@ -1,0 +1,98 @@
+/* START  navigation module CSS here   */
+.navbar{
+	background-image:url("images/nav.jpg");
+	background-color:#272323;
+	margin-bottom: 20px;
+}
+.navbar-brand img{
+height: 5rem;
+margin-right:10px;
+position:relative;
+bottom:5px;
+
+}
+
+.navbar-brand h2{
+  margin-left: 25px;
+  
+}
+
+.navbar li{
+margin-right:10px;
+font-size: 20px;
+
+}
+.carousel img
+{
+	height: 650px;
+          
+}
+
+.threePhotoSection img
+{
+	width:420px;
+	height:300px;
+}
+.threePhotoSection h3
+{
+margin-top:50px;
+margin-bottom:50px;
+}
+.threePhotoSection
+{
+	margin-bottom:30px;
+}
+.threecardimages {
+    height: 200px;
+    width: 100%;
+    object-fit: contain;
+}
+
+/* END  navigation module CSS here   */
+
+/* START CAROUSEL MODULES CSS */
+/* END CAROUSEL MODULES CSS*/
+
+/* START THREE PHOTO MODULES CSS*/
+/* END OF THREE PHOTO MODULES CSS*/
+
+/* START OF PARAGRAPH MODULES CSS*/
+
+.moreAboutUs h3 
+{
+	padding:25px;
+	padding-bottom:40px;
+}
+
+.moreAboutUs  blockquote
+{
+	padding:55px;
+	
+}
+.moreAboutUs
+{	background-color: #272323;
+	background-image: url("");
+	  background-width: 100%;
+	color:white;
+}
+
+
+
+/* END OF PARAGRAPH MODULES CSS*/
+
+/* START OF TABLE MODULE CSS*/
+/* END OF TABLE MODULE CSS*/
+
+/* START OF FORM MODULES CSS*/
+.contact{ color: aliceblue;
+	background-color: #41454b;
+	padding: 0;
+   }
+
+/* END OF FORM MODULES CSS*/
+
+/* START OF BUTTON CSS*/
+/* END OF BUTTON CSS*/
+
+ /* START OF FOOTER CSS*/
+ /* END OF FOOTER CSS*/
